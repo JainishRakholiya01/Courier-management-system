@@ -1,5 +1,6 @@
 # courier_management_system
- We have make courier management system offline. Where consumer can Log in, make courier and can track it also. There is also part where employee have to log in and can see their work and update status of courier. In Addition, we have put one more menu for Admin for maintain and manupalting the whole data base.
+ Developed a package tracking system in which users can sign in as an employee or a customer or an admin.
+ A customer can sign in and place orders, an employee can update the status of orders and the admin can hire new employees.
 ## Screen Shots
 ![image](https://user-images.githubusercontent.com/83170855/180167903-9fb59816-7c5f-4884-b15b-c0dc97a1d8c7.png)
 ![image](https://user-images.githubusercontent.com/83170855/180167977-23ea9fea-bbf9-4a1d-a7fa-621bfc0ab730.png)
